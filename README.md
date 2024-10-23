@@ -69,6 +69,7 @@ The CEO can use these insights to develop a targeted expansion strategy, focusin
 ## Conclusion:
 The analysis provides valuable insights for TATA’s leadership, allowing them to understand seasonal revenue trends, identify top-performing markets and customers, and explore new opportunities for regional expansion. With this data-driven strategy, the store can refine its operations, marketing efforts, and customer retention tactics, ensuring continued growth and profitability.
 
-## Certificate
+
+## Completion Certificate:
 
 ![Alt text](https://github.com/Ankita-Selokar/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Visuals/Tata%20Group_Data_Visualisation_certificate_page-0001%20(1).jpg)
