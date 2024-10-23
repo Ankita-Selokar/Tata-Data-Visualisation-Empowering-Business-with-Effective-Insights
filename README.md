@@ -13,9 +13,9 @@ The CEO is interested in understanding the seasonal trends in the store’s reve
 
 #### Insight:
 
-** The first eight months of 2011 showed steady revenue, averaging around $685,000 per month.
-** A sharp increase in revenue started in September, with a 40% rise over the previous month, peaking in November at approximately $1.5 million. This indicates that the last four months are highly influenced by seasonal trends, likely due to holiday shopping.
-** The incomplete December data restricts further analysis for that month.
+* The first eight months of 2011 showed steady revenue, averaging around $685,000 per month.
+* A sharp increase in revenue started in September, with a 40% rise over the previous month, peaking in November at approximately $1.5 million. This indicates that the last four months are highly influenced by seasonal trends, likely due to holiday shopping.
+* The incomplete December data restricts further analysis for that month.
 
 #### Recommendations:
 
@@ -29,8 +29,8 @@ The CMO wants to identify the top 10 countries generating the highest revenue (e
 
 #### Insight:
 
-** Countries like the Netherlands, Ireland, Germany, and France stand out as the highest revenue contributors.
-** These countries also show high unit sales, suggesting consistent demand for the products in these regions.
+* Countries like the Netherlands, Ireland, Germany, and France stand out as the highest revenue contributors.
+* These countries also show high unit sales, suggesting consistent demand for the products in these regions.
 
 #### Recommendations:
 
@@ -44,8 +44,8 @@ The CMO is interested in identifying the top 10 customers by revenue to prioriti
 
 #### Insight:
 
-** The top 10 customers do not show a significant difference in purchasing volume, with the highest customer generating only 17% more revenue than the second highest.
-** This spread indicates that revenue generation is well-distributed among key customers, minimizing dependency on any single client.
+* The top 10 customers do not show a significant difference in purchasing volume, with the highest customer generating only 17% more revenue than the second highest.
+* This spread indicates that revenue generation is well-distributed among key customers, minimizing dependency on any single client.
 
 #### Recommendations:
 
@@ -59,8 +59,8 @@ The CEO seeks insights into product demand across different regions (excluding t
 
 #### Insight:
 
-** The highest demand regions outside the UK are the Netherlands, Ireland, Germany, France, and Australia, where revenue generation is high.
-** Most sales are concentrated in Europe, with minimal sales in the Americas and no noticeable demand in Africa, Asia, or Russia.
+* The highest demand regions outside the UK are the Netherlands, Ireland, Germany, France, and Australia, where revenue generation is high.
+* Most sales are concentrated in Europe, with minimal sales in the Americas and no noticeable demand in Africa, Asia, or Russia.
 
 #### Recommendations:
 
